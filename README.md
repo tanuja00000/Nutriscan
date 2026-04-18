@@ -48,3 +48,4 @@ Nutrition details are displayed
 
 <img width="1600" height="771" alt="image" src="https://github.com/user-attachments/assets/e872c310-715b-41a1-8e56-2adf8267e54e" />
 
+<img width="1464" height="576" alt="WhatsApp Image 2026-04-18 at 7 39 58 PM" src="https://github.com/user-attachments/assets/849a0c4e-34a1-42d1-9d9e-9010610c6c78" />
