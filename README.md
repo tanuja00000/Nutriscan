@@ -39,10 +39,12 @@ Nutrition details are displayed
 
 ### Input Image
 
-<img width="1600" height="756" alt="image" src="https://github.com/user-attachments/assets/33d65b9c-d1f0-48fe-8a4a-ac92561ffb9a" />
+<img width="1600" height="729" alt="image" src="https://github.com/user-attachments/assets/6f931c7a-39f0-452e-b1ad-60366f531538" />
 
 ### Application UI
-<img width="1600" height="729" alt="image" src="https://github.com/user-attachments/assets/6f931c7a-39f0-452e-b1ad-60366f531538" />
+
+<img width="1600" height="756" alt="image" src="https://github.com/user-attachments/assets/33d65b9c-d1f0-48fe-8a4a-ac92561ffb9a" />
+
 
 <img width="1600" height="771" alt="image" src="https://github.com/user-attachments/assets/e872c310-715b-41a1-8e56-2adf8267e54e" />
 
